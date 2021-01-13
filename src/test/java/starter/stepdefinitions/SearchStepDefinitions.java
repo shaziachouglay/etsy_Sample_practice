@@ -38,4 +38,6 @@ public class SearchStepDefinitions {
                 Ensure.that(WikipediaArticle.HEADING).hasText(term)
         );
     }
+
+
 }
